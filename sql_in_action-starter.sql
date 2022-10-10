@@ -85,8 +85,16 @@ SELECT host_name, COUNT(host_name) AS number_of_listings FROM final_airbnb GROUP
 -- <<<<<<<<<<<<<<<<<<<<<< PROBLEM 11 >>>>>>>>>>>>>>>>>>>>>>>
 -- <<<<<<<<<<<<<<<<<<<<<<< WRAP UP >>>>>>>>>>>>>>>>>>>>>>>>>
 -- What do you think makes a successful AirBnB rental in this market? What factors seem to be at play the most?
--- Write a few sentences and include them with your project submission in the README file 
+-- Write a few sentences and include them with your project submission in the README file
 
+-- The SQL in action project certainly helped me to better understand how to run SQL queries, 
+-- and understand the basiscs of what kind of information I can look for.
+-- When doing the queries asked of me by the project, I didn't feel as though I got a fantastic overall understanding 
+-- of what makes a succesful airbnb in new york.
+-- However after looking at the data a little longer,
+-- it seems that having a lower price is one of the biggest predictors of the success of your airbnb, 
+-- which makes sense based on my knowledge of capitalism. 
+-- However, other factors certainly involve the location, as well as the type of rental that you are offering. 
 
 -- <<<<<<<<<<<<<<<<<<<<< ** BONUS ** >>>>>>>>>>>>>>>>>>>>>>>
 -- Find the the percent above or below each listing is compared to the average price for all listings.
